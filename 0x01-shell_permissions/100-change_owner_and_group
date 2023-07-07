@@ -1,0 +1,2 @@
+#!/nin/bash
+chown -hR vincent staff
